@@ -36,7 +36,7 @@ SQL • MongoDB • REST APIs • Redshift • Oracle • OData
 
 # Featured Projects
 
-## 🏠 HousesRUs
+## 🏠 Houses4Us
 Automation platform for generating Affirmative Fair Housing Marketing Plan demographic reports using Census and HUD datasets.
 
 **Tech:** React, FastAPI, U.S. Census API, Vercel
