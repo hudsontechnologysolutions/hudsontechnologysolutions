@@ -18,7 +18,7 @@ Focused on:
 
 - Portfolio: https://hudsontech.dev
 - LinkedIn: https://linkedin.com/in/roberto-herndon
-- Email: roberto@hudsontech.dev
+- Email: info@hudsontech.dev
 
 ## Tech Stack
 
