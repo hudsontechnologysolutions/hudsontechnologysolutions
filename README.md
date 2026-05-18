@@ -1,10 +1,10 @@
 # Hi, I'm Roberto 👋
 
-Software Engineer & Boston University Computer Science graduate building modern full-stack applications, backend systems, and AI-powered automation tools.
+Software Developer, Agency Owner, & Boston University Computer Science graduate building modern full-stack applications, backend systems, and AI-powered automation tools.
 
 Currently:
-- Associate Data Scientist at PSEG
 - Founder of Hudson Technology Solutions
+- Associate Data Scientist at PSEG
 - Building software for organizations, nonprofits, and local businesses
 
 Focused on:
