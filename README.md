@@ -23,7 +23,7 @@ Focused on:
 ## Tech Stack
 
 ### Frontend
-React • Tailwind CSS • Next.js • HTML/CSS
+React • Tailwind CSS • HTML/CSS
 
 ### Backend
 Python • Node.js • FastAPI • Flask • Express.js
