@@ -45,7 +45,7 @@ Automation platform for generating Affirmative Fair Housing Marketing Plan demog
 - Eliminated manual Census lookup processes
 - Built for affordable housing professionals in New Jersey
 
-[Project]("https://houses4us.vercel.app/") | [Repository]("https://github.com/hudsontechnologysolutions/houses4us")
+[Project](https://houses4us.vercel.app/) | [Repository](https://github.com/hudsontechnologysolutions/houses4us)
 
 ### AI Tools
 Claude • Copilot • ChatGPT
@@ -59,7 +59,7 @@ Subscription-based cultural event platform for artists and nonprofits.
 - Stripe-integrated subscription billing
 - Currently supporting real paying users
 
-[Project]("https://muse-map.vercel.app/") |[Repository]("https://github.com/hudsontechnologysolutions/muse-map")
+[Project](https://muse-map.vercel.app/) |[Repository](https://github.com/hudsontechnologysolutions/muse-map)
 
 ## Experience
 
