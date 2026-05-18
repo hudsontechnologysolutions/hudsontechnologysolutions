@@ -59,7 +59,7 @@ Subscription-based cultural event platform for artists and nonprofits.
 - Stripe-integrated subscription billing
 - Currently supporting real paying users
 
-[Project](https://muse-map.vercel.app/) |[Repository](https://github.com/hudsontechnologysolutions/muse-map)
+[Project](https://muse-map.vercel.app/) | [Repository](https://github.com/hudsontechnologysolutions/muse-map)
 
 ## Experience
 
