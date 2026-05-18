@@ -5,7 +5,7 @@ Software Developer, Agency Owner, & Boston University Computer Science graduate 
 Currently:
 - Founder of Hudson Technology Solutions
 - Associate Data Scientist at PSEG
-- Building software for organizations, nonprofits, and local businesses
+- Building software for non-profits & small businesses.
 
 Focused on:
 - Full-stack development
