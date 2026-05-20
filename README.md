@@ -1,6 +1,6 @@
 # Hi, I'm Roberto 👋
 
-Software Developer, Agency Owner, & Boston University Computer Science graduate building modern full-stack applications, backend systems, and AI-powered automation tools.
+Software Developer, Software & Web Development Agency Owner, & Boston University Computer Science graduate building modern full-stack applications, backend systems, and AI-powered automation tools.
 
 Currently:
 - Founder of Hudson Technology Solutions
