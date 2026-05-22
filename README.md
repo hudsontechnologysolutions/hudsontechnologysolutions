@@ -75,6 +75,5 @@ Founder of a software development agency serving nonprofits and SMBs.
 ## Currently Working On
 
 - AI-powered business automation tools
-- Full-stack SaaS applications
+- Full-stack applications
 - Local business software systems
-- Scalable backend architectures
