@@ -1,5 +1,7 @@
 # Hi, I'm Roberto 👋
 
+I help organizations improve through software.
+
 Software Developer, Software & Web Development Agency Owner, & Boston University Computer Science graduate building modern full-stack applications, backend systems, and AI-powered automation tools.
 
 Currently:
