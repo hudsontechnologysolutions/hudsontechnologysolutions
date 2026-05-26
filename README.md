@@ -102,7 +102,6 @@ Founder of a software development agency serving nonprofits and SMBs.
 
 # Currently Working On
 
-- AI-powered business automation tools
 - Full-stack applications
-- Local business software systems
-- Scalable software products for real-world organizations
+- Web sites
+- AI Powered Automation Tools
