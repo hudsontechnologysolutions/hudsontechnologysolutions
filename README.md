@@ -11,6 +11,7 @@ Currently:
 
 Focused on:
 - Full-stack development
+- Web sites
 - Backend systems
 - AI-assisted software workflows
 - Automation tools
