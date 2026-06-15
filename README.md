@@ -89,7 +89,7 @@ Live music discovery platform helping users find local bands, artists, and music
 
 # Experience
 
-## PSEG — Associate Data Scientist
+## PSEG — Founder (Software Engineer)
 Building production-grade Python backend systems and enterprise data integrations.
 
 ## Pinterest — Software Engineer Intern
