@@ -89,13 +89,13 @@ Live music discovery platform helping users find local bands, artists, and music
 
 # Experience
 
-## PSEG — Founder (Software Engineer)
+## PSEG — Software Engineer / Data Scientist
 Building production-grade Python backend systems and enterprise data integrations.
 
 ## Pinterest — Software Engineer Intern
 Worked on internal observability tooling using React and Flask.
 
-## Hudson Technology Solutions
+## Hudson Technology Solutions — Founder (Software Engineer)
 Founder of a software development agency serving nonprofits and SMBs.
 
 ---
