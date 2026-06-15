@@ -5,8 +5,8 @@ I help organizations improve through software.
 Software Developer, Software & Web Development Agency Owner, & Boston University Computer Science graduate building modern full-stack applications, web sites, and AI-powered automation tools.
 
 Currently:
-- Founder of Hudson Technology Solutions
-- Associate Data Scientist at PSEG
+- Founder (Software Engineer) Hudson Technology Solutions
+- Software Engineer / Data Scientist at PSEG
 - Building software for non-profits & small businesses
 
 Focused on:
