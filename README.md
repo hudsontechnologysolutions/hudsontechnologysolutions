@@ -1,17 +1,15 @@
 # Hi, I'm Roberto 👋
 
-I help organizations improve through software.
-
-Software Developer, Software & Web Development Agency Owner, & Boston University Computer Science graduate building modern full-stack applications, web sites, and AI-powered automation tools.
+I'm a developer who creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
 
 Currently:
-- Founder (Software Engineer) Hudson Technology Solutions
-- Software Engineer / Data Scientist at PSEG
+- Software Engineer Consultant at Hudson Technology Solutions
+- Software Engineer / Data Scientist at Public Service Enterprise Group
 - Building software for non-profits & small businesses
 
 Focused on:
 - Full-stack development
-- Web sites
+- Websites
 - Backend systems
 - AI-assisted software workflows
 - Automation tools
