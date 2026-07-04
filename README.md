@@ -28,10 +28,10 @@ Focused on:
 # Tech Stack
 
 ## Frontend
-React • Tailwind CSS • HTML/CSS
+React • Tailwind CSS • HTML
 
 ## Backend
-Python • Node.js • FastAPI • Flask • Express.js
+Python • Node.js • FastAPI • Express.js
 
 ## Cloud & Infrastructure
 AWS • Vercel • Render • Netlify
@@ -40,7 +40,7 @@ AWS • Vercel • Render • Netlify
 SQL • MongoDB • REST APIs • Redshift • Oracle • OData
 
 ## AI Tools
-Claude • Copilot • ChatGPT
+Claude • Microsoft Copilot
 
 ---
 
@@ -73,7 +73,7 @@ Subscription-based cultural event platform for artists and nonprofits.
 ---
 
 ## 🎵 WhereRTheBands
-Live music discovery platform helping users find local bands, artists, and music events.
+Live music discovery platform helping users, and myself, find local bands, artists, and music events.
 
 **Tech:** React, Vercel, Modern Frontend Web Technologies
 
@@ -90,7 +90,10 @@ Live music discovery platform helping users find local bands, artists, and music
 ## PSEG — Software Engineer / Data Scientist
 Building production-grade Python backend systems and enterprise data integrations.
 
-## Pinterest — Software Engineer Intern
+## Poweroptions — Software Engineer Intern  - Data
+Created Python scripts to generate emissions data to reduce the carbon footprint of municipalities & other civic organizations.
+
+## Pinterest — Software Engineer Intern - Full-Stack
 Worked on internal observability tooling using React and Flask.
 
 ## Hudson Technology Solutions — Founder (Software Engineer)
@@ -99,7 +102,6 @@ Founder of a software development agency serving nonprofits and SMBs.
 ---
 
 # Currently Working On
-
 - Full-stack applications
-- Web sites
-- AI Powered Automation Tools
+- Websites
+- AI-powered automation tools
