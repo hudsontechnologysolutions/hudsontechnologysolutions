@@ -31,7 +31,7 @@ React • Tailwind CSS • HTML
 Python • Node.js • FastAPI • Express.js
 
 ## Cloud & Infrastructure
-AWS • Vercel • Render • Netlify
+AWS • Vercel • Render
 
 ## Data & APIs
 SQL • MongoDB • REST APIs • Redshift • Oracle • OData
