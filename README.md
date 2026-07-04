@@ -51,6 +51,7 @@ Automation platform for generating Affirmative Fair Housing Marketing Plan demog
 - Automated demographic reporting workflows
 - Eliminated manual Census lookup processes
 - Built for affordable housing professionals in New Jersey
+- 
 
 [Project](https://houses4us.vercel.app/) | [Repository](https://github.com/hudsontechnologysolutions/houses4us)
 
