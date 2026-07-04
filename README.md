@@ -8,12 +8,9 @@ Currently:
 - Building software for non-profits & small businesses
 
 Focused on:
-- Full-stack development
+- Full-stack applications
 - Websites
-- Backend systems
-- AI-assisted software workflows
-- Automation tools
-- Real-world business software
+- AI-powered automation tools
 
 ---
 
@@ -99,9 +96,3 @@ Worked on internal observability tooling using React and Flask.
 ## Hudson Technology Solutions — Founder (Software Engineer)
 Founder of a software development agency serving nonprofits and SMBs.
 
----
-
-# Currently Working On
-- Full-stack applications
-- Websites
-- AI-powered automation tools
