@@ -88,7 +88,7 @@ Live music discovery platform helping users, and myself, find local bands, artis
 Building production-grade Python backend systems and enterprise data integrations.
 
 ## Hudson Technology Solutions — Founder (Software Engineer Consultant)
-Founder of a software consultancy agency and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
+Founder of a software consultancy agency that creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
 
 ## Poweroptions — Software Engineer Intern  - Data
 Created Python scripts to generate emissions data to reduce the carbon footprint of municipalities & other civic organizations.
