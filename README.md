@@ -3,9 +3,8 @@
 I'm a developer who creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
 
 Currently:
-- Software Engineer Consultant at Hudson Technology Solutions
+- Software Engineer Consultant at Hudson Technology Solutions (founder)
 - Software Engineer / Data Scientist at Public Service Enterprise Group
-- Building software for non-profits & small businesses
 
 Focused on:
 - Full-stack applications
