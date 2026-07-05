@@ -70,7 +70,7 @@ Subscription-based cultural event platform for artists and nonprofits.
 ---
 
 ## 🎵 WhereRTheBands
-Live music discovery platform helping users, and myself, find local bands, artists, and music events.
+Live music discovery platform helping users, and myself (I love music), find local bands, artists, and music events.
 
 **Tech:** React, Vercel, Modern Frontend Web Technologies
 
