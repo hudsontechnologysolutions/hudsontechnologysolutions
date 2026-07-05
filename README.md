@@ -33,7 +33,7 @@ Python • Node.js • FastAPI • Express.js
 AWS • Vercel • Render
 
 ## Data & APIs
-SQL • MongoDB • REST APIs
+MongoDB • SQL • REST APIs
 
 ## AI Tools
 Claude • Microsoft Copilot
