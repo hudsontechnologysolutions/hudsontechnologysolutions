@@ -2,7 +2,7 @@
 
 My mission is simple: improve the lives of others.
 
-I'm a developer who creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence. Solving probl
+I'm a developer who creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
 
 Currently:
 - Software Engineer Consultant at Hudson Technology Solutions (Founder)
