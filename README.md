@@ -17,9 +17,9 @@ Focused on:
 
 # Connect With Me
 
-- Portfolio: https://www.hudsontech.dev
 - LinkedIn: https://linkedin.com/in/roberto-herndon
 - Email: roberto@hudsontech.dev
+- Articles, Posts, and Links: https://linktr.ee/hudsontech
 
 ---
 
