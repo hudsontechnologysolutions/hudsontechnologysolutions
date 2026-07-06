@@ -95,5 +95,8 @@ Created Python scripts to generate emissions data to reduce the carbon footprint
 ## Pinterest — Software Engineer Intern - Full-Stack
 Worked on internal observability tooling using React and Flask.
 
+## Hack4Impact — President
+President of a club dedicated to building software applications for nonprofit organizations to advance their mission.
+
 
 
