@@ -1,6 +1,8 @@
 # Hi, I'm Roberto 👋
 
-I'm a developer who creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
+My mission is simple: improve the lives of others.
+
+I'm a developer who creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence. Solving probl
 
 Currently:
 - Software Engineer Consultant at Hudson Technology Solutions (Founder)
