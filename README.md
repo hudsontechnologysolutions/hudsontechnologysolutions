@@ -83,17 +83,17 @@ Live music discovery platform helping users, and myself (I love music), find loc
 
 # Experience
 
-## PSEG — Software Engineer / Data Scientist
-Building production-grade Python backend systems and enterprise data integrations.
-
 ## Hudson Technology Solutions — Founder (Software Engineer Consultant)
 Founder of a software consultancy agency that creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
 
+## PSEG — Software Engineer / Data Scientist
+Building production-grade Python backend systems and enterprise data integrations.
+
 ## Poweroptions — Software Engineer Intern  - Data
-Created Python scripts to generate emissions data to reduce the carbon footprint of municipalities & other civic organizations.
+Created Python scripts to generate emissions data to reduce the carbon footprint of municipalities & other civic organizations in New Englad.
 
 ## Pinterest — Software Engineer Intern - Full-Stack
-Worked on internal observability tooling using React and Flask.
+Worked on internal observability tooling using React and Flask at the headquarters in San Francisco.
 
 ## Hack4Impact — President
 President of a club dedicated to building software applications for nonprofit organizations to advance their mission.
