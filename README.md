@@ -1,4 +1,4 @@
-# Hi, I'm Roberto 👋
+# Hi, I'm Roberto
 
 My mission is simple: improve the lives of others.
 
