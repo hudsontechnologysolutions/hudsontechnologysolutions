@@ -86,10 +86,10 @@ Live music discovery platform helping users, and myself (I love music), find loc
 # Experience
 
 ## Hudson Technology Solutions — Founder (Software Engineer Consultant)
-Founder of a software consultancy agency that creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
+Software consultancy agency focusing on delivering software & websites to non-profits & SMBs to automate busy work, save time, & improve their online presence. The organization also functions as a blog discussing technology for various business purposes, software development, AI, & career advancement.
 
 ## PSEG — Software Engineer / Data Scientist
-Building production-grade Python backend systems and enterprise data integrations.
+Building production-grade Python backend systems and influencing executive financial decision making.
 
 ## Poweroptions — Software Engineer Intern  - Data
 Created Python scripts to generate emissions data to reduce the carbon footprint of municipalities & other civic organizations in New Englad.
