@@ -19,7 +19,7 @@ Focused on:
 
 - LinkedIn: https://linkedin.com/in/roberto-herndon
 - Email: roberto@hudsontech.dev
-- Articles, Blog, Content, and Links: https://linktr.ee/hudsontech
+- Projects, Blog, Content, and Links: https://linktr.ee/hudsontech
 
 ---
 
