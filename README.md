@@ -1,6 +1,6 @@
 # Hi, I'm Roberto
 
-My mission is simple: improve the lives of others.
+My mission is simple: impact the lives of others.
 
 I'm a developer who creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
 
