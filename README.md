@@ -2,7 +2,7 @@
 
 My mission is simple: impact the lives of others.
 
-I'm a developer who creates software and websites that help non-profits & small businesses save time, scale their impact, & increase their online presence.
+I help nonprofits and SMBs save time and scale their impact by building custom software, automation systems, and digital tools.
 
 Currently:
 - Software Engineer Consultant at Hudson Technology Solutions (Founder)
